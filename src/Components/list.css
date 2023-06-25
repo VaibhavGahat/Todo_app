@@ -1,0 +1,57 @@
+   .main-div{
+    padding: 2vh;
+   }
+  .addItems{
+    margin-left: 20vh;
+    margin-top: 1vh;
+  
+  }
+  
+  .heading{
+    margin-left: 4vh;
+    color: black!important;
+  }
+  
+  
+  .input-area{
+    width:50vh ;
+    height: 5vh;   
+     border: 1.5px solid black;
+    border-radius:5px;
+    background-color: rgb(196, 188, 232);
+  }
+  .add-btn{
+  
+    width: 15vh;
+    height: 4vh;
+    background-color: rgb(14, 27, 138);
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    color:rgb(226, 253, 158);
+    font-weight: 200;
+  }
+  .showItems{
+    white-space: nowrap;
+    overflow-x: auto;
+    padding: 0 0 0 0;
+    
+ 
+  }
+ 
+  h3{
+    display: inline-block;
+    color:rgb(226, 253, 158);
+   
+  }
+  .chcklist-btn{
+    margin-top: 2vh;
+    width: 15vh;
+    height: 6vh;
+    background-color: rgb(14, 27, 138);
+    border: 2px solid black;
+    border-radius: 7px;
+    cursor: pointer;
+    color:rgb(226, 253, 158);
+    font-weight: 200;
+  }
